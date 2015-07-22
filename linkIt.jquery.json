@@ -11,26 +11,26 @@
     "version": "0.3.0",
     "author": 
     {
-        "name": "Brad Traversy",
-        "url": "http://techguywebsolutions.com"
+        "name": "Daniel Espley",
+        "url": "http://test.com"
     },
     "maintainers": 
     [
         {
-            "name": "Brad Traversy",
-            "email": "techguyinfo@gmail.com",
-            "url": "http://techguywebsolutions.com"
+            "name": "Daniel Espley",
+            "email": "ddespley@hotmail.com",
+            "url": "http://test.com"
         }
     ],
     "licenses": 
     [
         {
             "type": "MIT",
-            "url": "https://github.com/bradtraversy/jquery.linkIt/LICENSE.txt"
+            "url": "https://github.com/danielespley/jquery.linkIt/LICENSE.txt"
         }
     ],
-    "homepage": "https://github.com/bradtraversy/jquery.linkIt",
-    "docs": "https://github.com/bradtraversy/jquery.linkIt",
+    "homepage": "https://github.com/danielespley/jquery.linkIt",
+    "docs": "https://github.com/danielespley/jquery.linkIt",
     "dependencies": 
     {
         "jquery": ">=1.9"
